@@ -20,7 +20,7 @@ sudo zypper install gcc gdb SDL2-devel cmake git llvm-clang llvm-gold
 # Kurulum
 ```bash
 git clone https://github.com/Hhk78/CSGO-source1-hack-for-linux.git
-cd gamesneeze
+cd CSGO-source1-hack-for-linux
 chmod +x toolbox.sh
 ./toolbox.sh -p -u -b -l # hangi paramaetreyi kullanacağınızı merak ediyorsanız -h kullanın.
 ```
