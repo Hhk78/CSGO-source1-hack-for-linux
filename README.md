@@ -64,7 +64,5 @@ chmod +x toolbox.sh
    JumpBug
    EdgeBug
    Edge Jump
-1
-```
 
 
