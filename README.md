@@ -3,7 +3,7 @@ CSGO (source 1) için multihack.
 
 Debian / Ubuntu / Pop OS / Linux Mint için gereken paketler:
 ```bash
-sudo apt install -y libsdl2-dev cmake git gcc-10 g++-10 gdb clang
+sudo apt install -y libsdl2-dev cmake git gcc g++ gdb clang
 ```
 Arch / Manjaro için gereken paketler:
 ```bash
