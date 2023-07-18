@@ -35,7 +35,8 @@ chmod +x toolbox.sh
 -p (--pull) # Güncelleyin.
 -h (--help) # Yardımı görüntüleyin.
 ```
-
+# 1
+![resim](https://github.com/Hhk78/CSGO-source1-hack-for-linux/assets/84645312/815eed1f-4fc0-4dc3-b7a3-221030d67e80)
 # Özellikler
 ````bash
    Basic GDB injector
@@ -63,5 +64,7 @@ chmod +x toolbox.sh
    JumpBug
    EdgeBug
    Edge Jump
+1
 ```
-![resim](https://github.com/Hhk78/CSGO-source1-hack-for-linux/assets/84645312/815eed1f-4fc0-4dc3-b7a3-221030d67e80)
+
+
